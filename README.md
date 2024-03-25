@@ -35,7 +35,7 @@
 ---
 ## My current projects:
 
-#### 🔭 Working as a systems analyst at Unimed Marília
-#### 🎓 In the final year of my Bachelor's degree in Information Systems at UNIVEM
-#### 🌱 Engaged in freelance projects as a web developer
+### 🔭 Working as a systems analyst at Unimed Marília
+### 🎓 In the final year of my Bachelor's degree in Information Systems at UNIVEM
+### 🌱 Engaged in freelance projects as a web developer
 
