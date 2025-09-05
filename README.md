@@ -1,4 +1,4 @@
-<h1 align = "center">🙋🏻‍♂️ Hey there! Welcome to my GitHub profile!</h1>
+<h1 align = "center">🙋🏻‍♂️ Olá! Bem-vindo(a) ao meu perfil do GitHub!</h1>
 
 <div align = "center">
     <a href="https://www.linkedin.com/in/gustavo-de-cristi-34279615a/" target="_blank"><img src="https://img.shields.io/badge/-linkedin-blue?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a><img src="https://github.com/Dangocan/duka/blob/master/.github/Assets/Images/padding.png?raw=true" width="5px"><a href="mailto:gustavodecristi@outlook.com" target="_blank"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"></a><img src="https://github.com/Dangocan/duka/blob/master/.github/Assets/Images/padding.png?raw=true" width="5px"><a href="https://www.instagram.com/gustavodecristi/" target="_blank"><img src="https://img.shields.io/badge/-instagram-7f38c1?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
@@ -10,7 +10,7 @@
 
 ---
 
-### My name is Gustavo, I'm a student of various programming languages and technologies, constantly exploring new ideas and learning 💻👨🏻‍💻
+### Meu nome é Gustavo, trabalho como analista de sistemas e programador, estou constantemente explorando novas ideias e aprendendo 💻👨🏻‍💻
 
 <div align = "center">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width = "8%"/>
@@ -33,9 +33,9 @@
 </div>
 
 ---
-## My current projects:
+## Sobre mim:
 
-### 🔭 Working as a systems analyst at Unimed Marília
-### 🎓 In the final year of my Bachelor's degree in Information Systems at UNIVEM
-### 🌱 Engaged in freelance projects as a web developer
+### 🔭 Colaborador da Unimed Marília, atuando como Analista de Sistemas
+### 🎓 Bacharel em Sistemas de Informação pela UNIVEM - Centro Universitário Eurípides de Marília
+### 🌱 Programador freelancer para diversos projetos
 
